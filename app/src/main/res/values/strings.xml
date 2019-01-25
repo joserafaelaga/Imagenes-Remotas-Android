@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImagenesRemotas</string>
+    <string name="imagen_remota">Imagen remota</string>
+    <string name="boton">Imagen de Internet</string>
+</resources>
